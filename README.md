@@ -1,8 +1,10 @@
 # MyPublicProfile
 Hi There 👋🏻 I'm Adrián Urresta
-I'm new here and I'm exciting to start this world
-This is my software development portfolio
+I'm new here and I'm exciting to start this world,
+This is my software development portfolio.
 You can find me in another places, links, and email like.
+I'm a develper studdent and it's my first year learning about IT (Informatic Technology).
+
 # //----------------------- FIND ME ---------------------------------//
 - Instagram: Adrx_Sanz
 - [Instagram](https://www.instagram.com/adrx_sanz/)
